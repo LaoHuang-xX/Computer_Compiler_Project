@@ -1,1 +1,1 @@
-"# ECSE-425-Project" 
+"This is the final project of Computer Architecture of McGill University." 
