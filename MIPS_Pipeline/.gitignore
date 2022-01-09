@@ -1,0 +1,10 @@
+*.bak
+*.wlf
+*.bsf
+*.bdf
+*.qsf
+*.qpf
+*.done
+*.qws
+work/
+db/
